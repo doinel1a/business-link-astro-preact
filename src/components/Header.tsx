@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from 'preact/hooks';
 import { faShareNodes } from '@fortawesome/free-solid-svg-icons';
 
 import useIsMobile from '../hooks/useIsMobile';

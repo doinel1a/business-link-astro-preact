@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from 'preact/hooks';
 import copy from 'copy-to-clipboard';
 import { faClipboard } from '@fortawesome/free-solid-svg-icons';
 

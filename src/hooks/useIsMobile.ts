@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from 'preact/hooks';
 
 export default function useIsMobile() {
 	const [isMobile, setIsMobile] = useState(false);

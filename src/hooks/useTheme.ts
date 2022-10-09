@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from 'preact/hooks';
 
 const THEME_KEY = 'IS_DARK_THEME';
 
